@@ -38,6 +38,12 @@
 		font-size: 1em;
 	}
 	
+	nav li{
+			display:block;
+			width:90%;
+	}
+	
+	
 }
 
 

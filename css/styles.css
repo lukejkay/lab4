@@ -35,3 +35,20 @@ section {
 section:hover {
   background: #666;
 }
+
+
+/*nav style */
+
+ul {
+	
+	list-style:none;
+	margin: 20 auto;
+	background-color:white;
+	
+}
+
+li {
+	display: inline-block;
+	width: 20%;
+	text-align:center;
+}
